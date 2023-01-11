@@ -550,6 +550,9 @@
 	font-size:12px;
 	color:#aaa;
 }
+.team-items .card{
+	border:none;
+}
 .team .team-items .team-cards{
 	position:absolute;
 	text-align:center;
