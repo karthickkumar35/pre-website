@@ -22,6 +22,9 @@
 	.about h2{
 		font-size:30px;
 	}
+	.client-logo{
+		min-height:80px;
+	}
 }
 @media (max-width:992px){
 	.happy .happy-items{
