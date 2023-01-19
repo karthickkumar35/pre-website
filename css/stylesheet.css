@@ -178,13 +178,14 @@
 .abt-content a{
 	border:solid 2px var(--pri-color);
 	transition:all .3s ease;
+	font-size:14px;
 }
 .abt-content a:hover{
 	background-color:var(--pri-color);
 }
 .abt-content a>iconify-icon{
-    font-size: 20px;
-    vertical-align: sub;
+    font-size:18px;
+    vertical-align:sub;
 }
 .about-content-items iconify-icon{
 	color:var(--pri-color);
