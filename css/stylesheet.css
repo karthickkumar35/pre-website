@@ -183,7 +183,8 @@
 	background-color:var(--pri-color);
 }
 .abt-content a>iconify-icon{
-	font-size:14px;
+    font-size: 20px;
+    vertical-align: sub;
 }
 .about-content-items iconify-icon{
 	color:var(--pri-color);
